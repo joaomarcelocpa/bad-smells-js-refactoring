@@ -1,0 +1,2 @@
+$ npx eslint src/ReportGenerator.refactored.js
+(sem problemas reportados; exit code: 0)

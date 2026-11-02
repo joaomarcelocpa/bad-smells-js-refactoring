@@ -1,0 +1,9 @@
+$ npm test
+PASS tests/ReportGenerator.refactored.test.js
+PASS tests/ReportGenerator.test.js
+
+Test Suites: 2 passed, 2 total
+Tests:       10 passed, 10 total
+Snapshots:   0 total
+Time:        0.098 s, estimated 1 s
+Ran all test suites.
